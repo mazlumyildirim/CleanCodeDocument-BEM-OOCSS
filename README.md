@@ -77,7 +77,7 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
   ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
     .header bloğu içindeki .search bloğu
     
-    ```
+```
 <div class="block">
   <div class="block__element">
     //content
@@ -86,7 +86,6 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
 
 ```
 Search Bloğu ;
-
 
 ```
    <header class="header">
