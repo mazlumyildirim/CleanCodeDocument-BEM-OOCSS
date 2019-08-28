@@ -1,12 +1,10 @@
-# Clean-Code-Document
-
-## BEM (Block Element Modifier)
-
+# BEM (Block Element Modifier)
+- 
 Temiz Kod Ankayışı;
 
 İyi yazılımcı güzel temiz kod yazan yazılımcıdır. Bir koda verilen önem kodun temizliğinden, yalınlığından anlaşılabildiği gibi yazan yazılımcımında işine verdiği değeri yansıtır aynı zamanda. Unutulmaması gereken nokta, yazılım bir sanattır ve sanatçısı yazılımcıdır :)
 
-  “Sonra asla demektir”  ;
+“Sonra asla demektir”
   
 Bir kod yazılırken asla daha sonra temize çekerim diye başlanmamalı. Sonra temize çekme asla olmayacaktır. Çünkü;
 Kod biriktikçe yönetilebilrliği azalacak, karmaşık ve anlamsız hale gelecektir.
