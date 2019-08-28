@@ -46,9 +46,6 @@ Yukarıdaki Twitter home page örneğinde, sayfanın mantıklı bloklara ayrıl�
 
 Yukardaki görüntüde header bloğununda kendi içinde üç ara bloğa bölündüünü görebiliriz.
  
- ![Alt text](https://miro.medium.com/max/339/1*scCi7tyoWjzzjfneQv5r6A.png?raw=false "Title")
- .header bloğu içindeki .nav bloğu
- 
   ![Alt text](https://miro.medium.com/max/140/1*ZApq-kqz0s-G7xmn2cu0Zg.png?raw=false "Title")
    .header bloğu içindeki .logo bloğu
    
@@ -113,7 +110,7 @@ Search Bloğu ;
   &__input {
     ...
   }
-  &__profile-img {
+  &__profile--img {
     ...
   }
   &__button {
@@ -127,7 +124,19 @@ Search Bloğu ;
 ###Modifier
  Block elemanına ek stiller kullanmak için oluşturulur.
  
-
+ ![Alt text](https://miro.medium.com/max/339/1*scCi7tyoWjzzjfneQv5r6A.png?raw=false "Title")
+ .header bloğu içindeki .nav bloğu
+ 
+ ```
+ <header class="header">
+  <div class="search">
+     <input class="search__input" type="text" name="search" placeholder="Search Twitter">
+     <img class="search__profile-img" src="../../profile.png">
+     <button class="search__button search__button--error" type="button">Tweet</button>
+  </div>
+</header>
+ 
+ ```
 
     
     
