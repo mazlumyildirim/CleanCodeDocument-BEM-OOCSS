@@ -52,8 +52,6 @@ Yukardaki görüntüde header bloğununda kendi içinde üç ara bloğa bölünd
   ![Alt text](https://miro.medium.com/max/140/1*ZApq-kqz0s-G7xmn2cu0Zg.png?raw=false "Title")
    .header bloğu içindeki .logo bloğu
    
-   ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
-    .header bloğu içindeki .search bloğu
     
 Genel olarak örneklere Header bloğu ile devam edeceğiz.
 
@@ -74,7 +72,35 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
 ```
 
 #### Element
-> Elementler temelde bloklar içinde olan ` blok elemanlarıdır `. 
+> Element'ler temelde block'lar içinde olan ` blok elemanlarıdır `. 
+
+  ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
+    .header bloğu içindeki .search bloğu
+    
+Search Bloğu ;
+
+```
+<div class="block">
+  <div class="block__element">
+    //content
+  </div>
+</div>
+
+```
+
+
+```
+   <header class="header">
+    <div class="search">
+      <input class="search__search-input" type="text" name="search" placeholder="Search Twitter">
+      <img class="search__profile-img" src="../../profile.png">
+      <button class="search__button" type="button">Tweet</button>
+    </div>
+  </header>
+   
+```
+    
+    
   
     
    
