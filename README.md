@@ -157,7 +157,7 @@ Search Bloğu ;
  
 #### BEM Örnek UI Örneği;
 
-![Alt text](https://uploads.toptal.io/blog/image/92428/toptal-blog-image-1461570879393-ca15c1d5ca73d8f4bcaa76e6b59e5dd1.jpg?raw=false "Title")
+![Alt text](image/code-rev-1.jpg?raw=false "Title")
 
     
     
