@@ -35,16 +35,12 @@ BEM (Block Element Modifier) bir css metadolojisidir. Yandex Tarafından geliş
 BEM ile doğru, stabil ve belli bir standart isimlendirmeler amaçlanmaktadır. Kodun okunulabilir olması için oldukça önemli bir yer almaktadır.
 
 #### Peki nedir bu Block Element Modifier ;
-
-##### Block;
-Genelde birden fazla elementi kapsayan büyük yapılardır. 
-
+#### Block;
+> Genelde birden fazla elementi kapsayan büyük yapılardır. Bloklar kendi içlerinde birden fazla item'ı grup olarak içinde barındırır. Kendi içinde blocklar bulundurabilirler.
 
  ![Alt text](https://miro.medium.com/max/1257/1*eFlkVoLUdAy8eSJXPBBG6Q.png?raw=true "Title")
  
- Yukarıdaki Twitter home page örneğinde, sayfanın mantıklı bloklara ayrılış biçimi kırmısı borderlar ile görünmektedir. Her bir parça bir BEM bloğunu temsil etektedir.
-Blocklar Header, side-left, side-right, ve main gibi isimlendirilebilir.
-Peki bloklar nasıl tespit edilir. 
+Yukarıdaki Twitter home page örneğinde, sayfanın mantıklı bloklara ayrılış biçimi kırmısı borderlar ile görünmektedir. Her bir parça bir BEM bloğunu temsil etektedir. Örnekteki bloklar Header, side-left, side-right, ve main gibi isimlendirilebilir.
 
  ![Alt text](https://miro.medium.com/max/1206/1*xUMPgcFYsL53DEK7CgdOsQ.png?raw=true "Title")
  
