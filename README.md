@@ -200,7 +200,23 @@ Search Bloğu ;
   
 ```
 
-    
+### Temel Adlandırma Kuralları 
+
+* #id selector kullanımı min seviyede olmalı. id selector kullanılacaksa sadece js etkileşim için kullanılmalı ve css verilmemeli. Unutulmamalıdır ki id selector çok güçlü bir seçici. 
+
+* Element adı block adından çift alt tire ( __ ) ile ayrılmalı. örn: " .block__element " 
+* Modifierler element veya block'tan çift tire ( -- ) ile ayrılmalı. örn: " .block__element--modifier // .block--modifier"
+
+Örn;
+
+```
+<div class="block">
+  <div class="block__element block--modifier">
+    . . .
+  </div>
+</block>
+
+```
     
   
     
