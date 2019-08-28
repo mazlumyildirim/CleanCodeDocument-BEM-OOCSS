@@ -1,6 +1,6 @@
 # BEM (Block Element Modifier)
-- 
-Temiz Kod Ankayışı;
+
+#### Temiz Kod Ankayışı;
 
 İyi yazılımcı güzel temiz kod yazan yazılımcıdır. Bir koda verilen önem kodun temizliğinden, yalınlığından anlaşılabildiği gibi yazan yazılımcımında işine verdiği değeri yansıtır aynı zamanda. Unutulmaması gereken nokta, yazılım bir sanattır ve sanatçısı yazılımcıdır :)
 
@@ -15,7 +15,7 @@ Kod karmaşasının sonuçları;
 İyi kod nasıl kötü koda dönüşür;
 > İyi bir kodun kötü koda dönüşmesinin bir çok nedeni vardır. En büyük nedenlarinden biride, maalesef profesyonel davranmamaz. Kodlarımızı günübirlik düşünüp, esnek, pratik düşünmüyoruz. Genelde günü kurtarmaya yönelik çalıştığımız için projeler ilerledikçe tıkanmakta ve kodun yönetimi zorlaşmaktadır.
 
-Temiz kod için neler yapmalıyız ?
+#### Temiz kod için neler yapmalıyız ?
 
 "Temiz kod her zaman ona değer veren biri tarafından yazılmış gibi görünür."
 
@@ -27,3 +27,17 @@ Temiz kod için neler yapmalıyız ?
 
 Unutulmaması gerekir, temiz kod arayışında olmak iyi yazılımcı olmak için atılacak en büyük adım olur.
 
+
+## BEM Nedir ?
+
+BEM (Block Element Modifier) bir css metadolojisidir. Yandex Tarafından geliştirilmiş, bir stil adlandırma kuralıdır.
+
+BEM ile doğru, stabil ve belli bir standart isimlendirmeler amaçlanmaktadır. Kodun okunulabilir olması için oldukça önemli bir yer almaktadır.
+
+Peki nedir bu Block Element Modifier ;
+
+Block;
+Genelde birden fazla elementi kapsayan büyük yapılardır. 
+
+
+ ![Alt text](relative/path/to/img.jpg?raw=true "Title")
