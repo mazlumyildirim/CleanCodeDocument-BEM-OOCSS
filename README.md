@@ -159,6 +159,47 @@ Search Bloğu ;
 
 ![Alt text](image/code-rev-1.jpg?raw=false "Title")
 
+```
+
+<div class="hero">
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <div class="nav__item">
+          <a href="#" class="nav__item--link">
+            .....
+          </a>
+        </div>	
+        ....
+      </nav>
+    </div>
+  </header>
+
+  <div class="hero__content">
+      <div class="logo">
+        <img src="...." class="logo__img">
+      </div>
+
+      <div class="search">
+        <form class="search__form">
+          <input class="search__input" ..... >
+          <button class="search__button" .... > Search </button>
+        </form>
+      </div>
+
+      <div class="auth">
+        <form class="auth__form">
+          <input class="auth__input" .... placeholder=".....">
+          <input class="auth__input" .... placeholder=".....">
+          <button class="auth__button" ..... > Sign İn </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+  
+```
+
     
     
   
