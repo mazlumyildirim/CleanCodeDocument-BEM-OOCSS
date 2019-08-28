@@ -12,9 +12,7 @@ Bir kod yazılırken asla daha sonra temize çekerim diye başlanmamalı. Sonra 
 Kod biriktikçe yönetilebilrliği azalacak, karmaşık ve anlamsız hale gelecektir.
 
 Kod karmaşasının sonuçları;
- — Takımların verimliliği düşer ve sıfıra yaklaşır. 
- — Verimlilik düştükçe de yöneticiler yapabildikleri tek şeyi yaparlar; verimliliği artırması umudu ile projeye daha çok insan kaynağı eklerler.
- — Takımdaki herkes verimliliği artırmak için büyük baskı altındadır. Öyle ki verimliliği sıfıra daha da yaklaştıracak şekilde kod karmaşası yaratmaya devam ederler.
+> Takımların verimliliği düşer ve sıfıra yaklaşır. Verimlilik düştükçe de yöneticiler yapabildikleri tek şeyi yaparlar; verimliliği artırması umudu ile projeye daha çok insan kaynağı eklerler. Takımdaki herkes verimliliği artırmak için büyük baskı altındadır. Öyle ki verimliliği sıfıra daha da yaklaştıracak şekilde kod karmaşası yaratmaya devam ederler.
 
 İyi kod nasıl kötü koda dönüşür;
 > İyi bir kodun kötü koda dönüşmesinin bir çok nedeni vardır. En büyük nedenlarinden biride, maalesef profesyonel davranmamaz. Kodlarımızı günübirlik düşünüp, esnek, pratik düşünmüyoruz. Genelde günü kurtarmaya yönelik çalıştığımız için projeler ilerledikçe tıkanmakta ve kodun yönetimi zorlaşmaktadır.
