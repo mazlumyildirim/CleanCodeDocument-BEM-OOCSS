@@ -54,6 +54,16 @@ Yukardaki görüntüde header bloğununda kendi içinde üç ara bloğa bölünd
    
    ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
     .header bloğu içindeki .search bloğu
+    
+Genel olarak örneklere Header bloğu ile devam edeceğiz.
+
+''''
+  <header class="header">
+      /// content
+  </header>
+''''
+  
+    
    
 
 
