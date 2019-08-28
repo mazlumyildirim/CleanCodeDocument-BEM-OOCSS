@@ -1,6 +1,6 @@
 # BEM (Block Element Modifier)
 
-### Temiz Kod Ankayışı;
+## Temiz Kod Ankayışı;
 
 İyi yazılımcı güzel temiz kod yazan yazılımcıdır. Bir koda verilen önem kodun temizliğinden, yalınlığından anlaşılabildiği gibi yazan yazılımcımında işine verdiği değeri yansıtır aynı zamanda. Unutulmaması gereken nokta, yazılım bir sanattır ve sanatçısı yazılımcıdır :)
 
