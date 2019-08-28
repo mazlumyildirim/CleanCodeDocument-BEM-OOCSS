@@ -40,4 +40,4 @@ Block;
 Genelde birden fazla elementi kapsayan büyük yapılardır. 
 
 
- ![Alt text](relative/path/to/img.jpg?raw=true "Title")
+ ![Alt text](https://miro.medium.com/max/1257/1*eFlkVoLUdAy8eSJXPBBG6Q.png?raw=true "Title")
