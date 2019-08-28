@@ -42,17 +42,18 @@ BEM ile doğru, stabil ve belli bir standart isimlendirmeler amaçlanmaktadır. 
  
 Yukarıdaki Twitter home page örneğinde, sayfanın mantıklı bloklara ayrılış biçimi kırmısı borderlar ile görünmektedir. Her bir parça bir BEM bloğunu temsil etektedir. Örnekteki bloklar Header, side-left, side-right, ve main gibi isimlendirilebilir.
 
-Örn: İmage-1
- ![Alt text](https://miro.medium.com/max/1206/1*xUMPgcFYsL53DEK7CgdOsQ.png?raw=true "Title")
+![Alt text](https://miro.medium.com/max/1206/1*xUMPgcFYsL53DEK7CgdOsQ.png?raw=true "Title")
+
+Yukardaki görüntüde header bloğununda kendi içinde üç ara bloğa bölündüünü görebiliriz.
  
- Örn: İmage-2
  ![Alt text](https://miro.medium.com/max/339/1*scCi7tyoWjzzjfneQv5r6A.png?raw=false "Title")
+ .header bloğu içindeki .nav bloğu
  
- Örn: İmage-3
   ![Alt text](https://miro.medium.com/max/140/1*ZApq-kqz0s-G7xmn2cu0Zg.png?raw=false "Title")
-  
-  Örn: İmage-4
+   .header bloğu içindeki .logo bloğu
+   
    ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
+    .header bloğu içindeki .search bloğu
    
 
 
