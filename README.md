@@ -1,6 +1,6 @@
 # BEM (Block Element Modifier)
 
-#### Temiz Kod Ankayışı;
+### Temiz Kod Ankayışı;
 
 İyi yazılımcı güzel temiz kod yazan yazılımcıdır. Bir koda verilen önem kodun temizliğinden, yalınlığından anlaşılabildiği gibi yazan yazılımcımında işine verdiği değeri yansıtır aynı zamanda. Unutulmaması gereken nokta, yazılım bir sanattır ve sanatçısı yazılımcıdır :)
 
@@ -9,10 +9,10 @@
 Bir kod yazılırken asla daha sonra temize çekerim diye başlanmamalı. Sonra temize çekme asla olmayacaktır. Çünkü;
 Kod biriktikçe yönetilebilrliği azalacak, karmaşık ve anlamsız hale gelecektir.
 
-###### Kod karmaşasının sonuçları;
+##### Kod karmaşasının sonuçları;
 > Takımların verimliliği düşer ve sıfıra yaklaşır. Verimlilik düştükçe de yöneticiler yapabildikleri tek şeyi yaparlar; verimliliği artırması umudu ile projeye daha çok insan kaynağı eklerler. Takımdaki herkes verimliliği artırmak için büyük baskı altındadır. Öyle ki verimliliği sıfıra daha da yaklaştıracak şekilde kod karmaşası yaratmaya devam ederler.
 
-###### İyi kod nasıl kötü koda dönüşür;
+##### İyi kod nasıl kötü koda dönüşür;
 > İyi bir kodun kötü koda dönüşmesinin bir çok nedeni vardır. En büyük nedenlarinden biride, maalesef profesyonel davranmamamız. Kodlarımızı günübirlik düşünüp, esnek, pratik düşünmüyoruz. Genelde günü kurtarmaya yönelik çalıştığımız için projeler ilerledikçe tıkanmakta ve kodun yönetimi zorlaşmaktadır.
 
 #### Temiz kod için neler yapmalıyız ?
@@ -44,14 +44,15 @@ Genelde birden fazla elementi kapsayan büyük yapılardır. 
  
  Yukarıdaki Twitter home page örneğinde, sayfanın mantıklı bloklara ayrılış biçimi kırmısı borderlar ile görünmektedir. Her bir parça bir BEM bloğunu temsil etektedir.
 Blocklar Header, side-left, side-right, ve main gibi isimlendirilebilir.
+Peki bloklar nasıl tespit edilir. 
 
  ![Alt text](https://miro.medium.com/max/1206/1*xUMPgcFYsL53DEK7CgdOsQ.png?raw=true "Title")
  
- ![Alt text](https://miro.medium.com/max/339/1*scCi7tyoWjzzjfneQv5r6A.png?raw=false "Title")
+ !(https://miro.medium.com/max/339/1*scCi7tyoWjzzjfneQv5r6A.png?raw=false "Title")
  
-  ![Alt text](https://miro.medium.com/max/140/1*ZApq-kqz0s-G7xmn2cu0Zg.png?raw=false "Title")
+  !(https://miro.medium.com/max/140/1*ZApq-kqz0s-G7xmn2cu0Zg.png?raw=false "Title")
   
-   ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
+   !(https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
    
 
 
