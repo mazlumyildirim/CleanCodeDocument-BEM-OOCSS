@@ -124,8 +124,8 @@ Search Bloğu ;
 ###Modifier
  Block elemanına ek stiller kullanmak için oluşturulur.
  
- ![Alt text](https://miro.medium.com/max/339/1*scCi7tyoWjzzjfneQv5r6A.png?raw=false "Title")
- .header bloğu içindeki .nav bloğu
+  ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
+    .header bloğu içindeki .search bloğu
  
  ```
  <header class="header">
