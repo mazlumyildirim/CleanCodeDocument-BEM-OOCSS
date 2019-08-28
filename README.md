@@ -34,9 +34,9 @@ BEM (Block Element Modifier) bir css metadolojisidir. Yandex Tarafından geliş
 
 BEM ile doğru, stabil ve belli bir standart isimlendirmeler amaçlanmaktadır. Kodun okunulabilir olması için oldukça önemli bir yer almaktadır.
 
-Peki nedir bu Block Element Modifier ;
+#### Peki nedir bu Block Element Modifier ;
 
-Block;
+##### Block;
 Genelde birden fazla elementi kapsayan büyük yapılardır. 
 
 
