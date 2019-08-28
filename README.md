@@ -217,9 +217,28 @@ Search Bloğu ;
 </block>
 
 ```
-    
-  
-    
-   
 
+Yanlış Kullanım;
 
+```
+<div class="block">
+  <div class="block__element">
+    <div class="block__element__container">
+      . . .
+    </div>
+  </div>
+</block>
+
+```
+Doğru Kullanım;
+
+```
+<div class="block">
+  <div class="block__element">
+    <div class="block__container">
+      . . .
+    </div>
+  </div>
+</block>
+
+```
