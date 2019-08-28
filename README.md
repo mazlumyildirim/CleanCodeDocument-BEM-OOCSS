@@ -242,3 +242,28 @@ Doğru Kullanım;
 </block>
 
 ```
+
+
+bonus olarak;
+
+
+```
+.kisi__el
+.kisi__bacak
+.kisi--erkek
+.kisi--erkek__el
+.kisi--erkek__el--sol
+.kisi--erkek__el--sag
+.kisi--erkek__bacak
+.kisi--erkek__bacak--sol
+.kisi--erkek__bacak--sag
+.kisi--kadin
+.kisi--kadin__hand
+.kisi--kadin__hand--sol
+.kisi--kadin__hand--sag
+.kisi--kadin__bacak
+.kisi--kadin__bacak--sol
+.kisi--kadin__bacak--sag
+
+```
+
