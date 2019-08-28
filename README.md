@@ -246,7 +246,7 @@ Doğru Kullanım;
 
 bonus olarak;
 
-
+Örn-1;
 ```
 .kisi__el
 .kisi__bacak
@@ -266,4 +266,18 @@ bonus olarak;
 .kisi--kadin__bacak--sag
 
 ```
+
+Örn-2;
+
+![Alt text](https://miro.medium.com/max/1080/0*E9SgMh-FsWFBmG09.png?raw=false "Title")
+
+
+## BEM kullanmanın avantajları;
+
+* Kodun daha okunabir, yorumlanabilir olmasını sağlıyor.
+* Kodun esnek olmasını bu sayede kod tekrarını engelliyor.
+* Sass ve Less gibi css pre-processor’lar için de BEM üretmek oldukça kolay.
+* İç içe css seçicilerinden oluştuğu için hangi elementin hangi bloğa ait olduğu ve amacı çabuk anlaşılır. Ufak html isim değişiklerinde hemen güncelleme uygulanabilir olmakta.
+
+
 
