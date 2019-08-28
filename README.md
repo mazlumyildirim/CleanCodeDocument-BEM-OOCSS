@@ -36,7 +36,7 @@ BEM ile doğru, stabil ve belli bir standart isimlendirmeler amaçlanmaktadır. 
 
 #### Peki nedir bu Block Element Modifier ;
 #### Block;
-> Genelde birden fazla elementi kapsayan büyük yapılardır. Bloklar kendi içlerinde birden fazla item'ı grup olarak içinde barındırır. Kendi içinde blocklar bulundurabilirler.
+> Genelde birden fazla elementi kapsayan büyük yapılardır. Bloklar kendi içlerinde birden fazla item'ı grup olarak içinde barındırır. Kendi içinde blocklar bulundurabilirler. Oluşturduğumuz componentler, widgetlar veya global tanımlı her bir anlamlı parçalar birer block parçası olabilir ve block olarak tanımlanabilir.
 
  ![Alt text](https://miro.medium.com/max/1257/1*eFlkVoLUdAy8eSJXPBBG6Q.png?raw=true "Title")
  
