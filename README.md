@@ -59,9 +59,22 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
 
 ```
   <header class="header">
-      ///content
+      ///HTML5 semantic element'i olan header'a ".header" class'ı verilerek bloğumuzu oluşturmuş olduk.
   </header>
+  
 ```
+
+```
+  <header class="header">
+    <nav class="nav">
+      ///Burda Blok içinde blok ypmış olduk.
+    </nav>
+  </header>
+  
+```
+
+#### Element
+> Elementler temelde bloklar içinde olan ![#1589F0](blok elemanlarıdır) `#1589F0` 
   
     
    
