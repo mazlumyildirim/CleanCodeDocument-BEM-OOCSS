@@ -57,11 +57,11 @@ Yukardaki görüntüde header bloğununda kendi içinde üç ara bloğa bölünd
     
 Genel olarak örneklere Header bloğu ile devam edeceğiz.
 
-''''
+'''
   <header class="header">
       /// content
   </header>
-''''
+'''
   
     
    
