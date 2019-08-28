@@ -124,10 +124,11 @@ Search Bloğu ;
 ### Modifier
  Block elemanına ek stiller kullanmak için oluşturulur.
  
-  ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
+  ![Alt text](https://miro.medium.com/max/378/1*ynf3eybGhZXs-1F-l_3AdQ.png?raw=false "Title")
     .header bloğu içindeki .search bloğu
  
  ```
+ <!-- HTML -->
  <header class="header">
   <div class="search">
      <input class="search__input" type="text" name="search" placeholder="Search Twitter">
@@ -135,8 +136,28 @@ Search Bloğu ;
      <button class="search__button search__button--error" type="button">Tweet</button>
   </div>
 </header>
+
+<!-- CSS (less veya sass ile birlikte) -->
+
+.search {
+  ...
+  
+  &__input {
+    ...
+    
+    &--error {
+      ...
+    }
+  }
+}
+   
  
  ```
+ 
+ 
+#### BEM Örnek UI Örneği;
+
+![Alt text](https://uploads.toptal.io/blog/image/92428/toptal-blog-image-1461570879393-ca15c1d5ca73d8f4bcaa76e6b59e5dd1.jpg?raw=false "Title")
 
     
     
