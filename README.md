@@ -74,7 +74,7 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
 ```
 
 #### Element
-> Elementler temelde bloklar içinde olan ![#1589F0](blok elemanlarıdır) `#1589F0` 
+> Elementler temelde bloklar içinde olan ` blok elemanlarıdır `. 
   
     
    
