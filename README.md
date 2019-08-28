@@ -47,6 +47,8 @@ Blocklar Header, side-left, side-right, ve main gibi isimlendirilebilir.
 
  ![Alt text](https://miro.medium.com/max/1206/1*xUMPgcFYsL53DEK7CgdOsQ.png?raw=true "Title")
  
+ ![Alt text](https://miro.medium.com/max/339/1*scCi7tyoWjzzjfneQv5r6A.png?raw=true "Title")
+ 
   ![Alt text](https://miro.medium.com/max/140/1*ZApq-kqz0s-G7xmn2cu0Zg.png?raw=true "Title")
   
    ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=true "Title")
