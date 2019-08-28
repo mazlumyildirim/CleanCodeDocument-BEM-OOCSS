@@ -63,12 +63,20 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
 ```
 
 ```
+<!-- HTML -->
   <header class="header">
     <nav class="nav">
       ///Burda Blok içinde blok ypmış olduk.
     </nav>
   </header>
   
+<!-- HTML -->
+
+.nav {
+  ....
+}
+
+
 ```
 
 #### Element
@@ -88,15 +96,39 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
 Search Bloğu ;
 
 ```
-   <header class="header">
-    <div class="search">
-      <input class="search__search-input" type="text" name="search" placeholder="Search Twitter">
-      <img class="search__profile-img" src="../../profile.png">
-      <button class="search__button" type="button">Tweet</button>
-    </div>
-  </header>
+<!-- HTML -->
+<header class="header">
+  <div class="search">
+     <input class="search__input" type="text" name="search" placeholder="Search Twitter">
+     <img class="search__profile-img" src="../../profile.png">
+     <button class="search__button" type="button">Tweet</button>
+  </div>
+</header>
+  
+<!-- CSS (less veya sass ile birlikte) -->
+
+.search {
+  ...
+  
+  &__input {
+    ...
+  }
+  &__profile-img {
+    ...
+  }
+  &__button {
+    ...
+  }
+}
    
 ```
+
+
+###Modifier
+ Block elemanına ek stiller kullanmak için oluşturulur.
+ 
+
+
     
     
   
