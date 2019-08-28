@@ -15,7 +15,7 @@ Kod biriktikçe yönetilebilrliği azalacak, karmaşık ve anlamsız hale gelece
 ##### İyi kod nasıl kötü koda dönüşür;
 > İyi bir kodun kötü koda dönüşmesinin bir çok nedeni vardır. En büyük nedenlarinden biride, maalesef profesyonel davranmamamız. Kodlarımızı günübirlik düşünüp, esnek, pratik düşünmüyoruz. Genelde günü kurtarmaya yönelik çalıştığımız için projeler ilerledikçe tıkanmakta ve kodun yönetimi zorlaşmaktadır.
 
-#### Temiz kod için neler yapmalıyız ?
+#### Temiz kod için neler yapmalıyız?
 
 "Temiz kod her zaman ona değer veren biri tarafından yazılmış gibi görünür."
 
