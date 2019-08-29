@@ -427,7 +427,8 @@ Gördüğüm birkaç yanlış style uygulama biçimleri. Bu yazım biçimleri yu
     background: transparent;
 }
 
-> CSS şişirecek tüm tekrarlardan gereksiz style class uzatmaltından kaçınmalıyız. Less - Sass kullanım amacı unutulmamalı. Class isimlenirirken olabildiğince global isimlendirmeler kullanılmalı.
+> CSS şişirecek tüm tekrarlardan gereksiz style class uzatmaltından kaçınmalıyız. Less - Sass kullanım amacı unutulmamalı.
+Class isimlenirirken olabildiğince global isimlendirmeler kullanılmalı.
 
 ----------------------
 
