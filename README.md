@@ -376,8 +376,8 @@ Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod
 
 ### Temelel düzeyde style uygulama tavsiyelerim;
 
-![Alt text](image/img-err-1.jpg?raw=true "Title")
-![Alt text](image/img-err-2.jpg?raw=true "Title")
+![Alt text](image/img-err-1.jpg?raw=false "Title")
+![Alt text](image/img-err-2.jpg?raw=false "Title")
 ![Alt text](image/img-err-3.jpg?raw=true "Title")
 ![Alt text](image/img-err-4.jpg?raw=true "Title")
 ![Alt text](image/img-err-5.jpg?raw=true "Title")
