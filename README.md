@@ -374,9 +374,10 @@ Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod
 
 
 
-### Temelel düzeyde style uygulama önerilerim;
+### Temel düzeyde style uygulama hataları;
 
 Gördüğüm birkaç yanlış style uygulama biçimleri. Bu yazım biçimleri yukarda bahsı geçen kurallara ters düşmektedir.
+
 ```
 .multi-image-text{
   background-color: white;
@@ -424,6 +425,8 @@ Gördüğüm birkaç yanlış style uygulama biçimleri. Bu yazım biçimleri yu
     background: transparent;
 }
 
+> CSS şişirecek tüm tekrarlardan gereksiz style class uzatmaltından kaçınmalıyız. Less - Sass kullanım amacı unutulmamalı. Class isimlenirirken olabildiğince global isimlendirmeler kullanılmalı.
+
 ----------------------
 
 .col-sm-6:nth-child(2) {
@@ -437,18 +440,6 @@ Gördüğüm birkaç yanlış style uygulama biçimleri. Bu yazım biçimleri yu
   padding: 30px 30px 30px 100px;
 }
 
-
-------------------------
-
-div {
-  font-size: 16px;
-  line-height: 1.63;
-  letter-spacing: 0.96px;
-  color: #7a7a7a;
-  text-align: center;
-}
-
------------------------
 
 .js-prev-slide, .js-next-slide {
   cursor: pointer;
@@ -468,7 +459,17 @@ div {
   left: -15px;
 }
 
-----------------------
+> js veya bootstrap class'larına kesinlikle style verilmemeli. Herhangi bir js veya bootstrap classlarının htmlden çıkarılması durumunda UI sıkıntılı bir hal alacaktır. Buda biz yazılımcılara yol, su, elektrik olarak geri dönecektir.
+
+------------------------
+
+div {
+  font-size: 16px;
+  line-height: 1.63;
+  letter-spacing: 0.96px;
+  color: #7a7a7a;
+  text-align: center;
+}
 
 a{
   transition: 0.2s ease;
@@ -497,6 +498,9 @@ a{
     text-transform: uppercase;
   }
 }
+
+> Mümkün olduğu kadar Class'ız hiçbir style'landırma yapılmamalı.
+
 
 ```
 
