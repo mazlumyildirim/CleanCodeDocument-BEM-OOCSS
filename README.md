@@ -366,4 +366,7 @@ BEM gibi bir css metadolojisidir.
 * OOCSS’te parçalar CSS’de kodlanıp ve HTML’de genişletiliyor.
 
 
+Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod yazmak için nasıl bir metodoloji yolu izlenmeli hakkında bilgi paylaşımımız oldu. Bug ve revizeleri azaltmanın bir yoluda kodu doğru ve mantıklı sıralar halinde yazmaktır. BEM ve OOCSS gibi css stil metodolojilerdoğru ve 
+
+
 
