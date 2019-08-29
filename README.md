@@ -272,12 +272,59 @@ bonus olarak;
 ![Alt text](https://miro.medium.com/max/1080/0*E9SgMh-FsWFBmG09.png?raw=false "Title")
 
 
-## BEM kullanmanın avantajları;
+### BEM kullanmanın avantajları;
 
 * Kodun daha okunabir, yorumlanabilir olmasını sağlıyor.
 * Kodun esnek olmasını bu sayede kod tekrarını engelliyor.
 * Sass ve Less gibi css pre-processor’lar için de BEM üretmek oldukça kolay.
 * İç içe css seçicilerinden oluştuğu için hangi elementin hangi bloğa ait olduğu ve amacı çabuk anlaşılır. Ufak html isim değişiklerinde hemen güncelleme uygulanabilir olmakta.
+
+## OOCSS (Object Oriented CSS)
+
+BEM gibi bir css metadolojisidir.
+> OOCSS'in odak noktası, sayfa öğelerinde tekrar edilen durumları nesne olarak ele almak ve gerektiğinde kullanmaktır.
+
+##### OOCSS'nin referans aldığı noktalar;
+
+* Düzen stillerinin (width, height, padding, margin , position) ve tasarım stillerinin(border, color, font, background) birbirinden ayrılması demektir.
+
+Örn;
+```
+/* kötü kullanım */
+.box-1{
+   width: 100px;
+   height: 100x;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   color: #ccc;
+}
+.box-2{
+   width: 200px;
+   height: 200x;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   color: #ccc;
+}
+/* doğru kullanım */
+.box-1{
+   width: 100px;
+   height: 100x;
+}
+.box-2{
+   width: 200px;
+   height: 200x;
+}
+.box-border{
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   color: #ccc;
+}
+<!-- HTML -->
+<div class=”box-1 box-border”> Lorem ipsum </div>
+<div class=”box-2 box-border”> Lorem ipsum </div>
+
+
+```
 
 
 
