@@ -376,15 +376,130 @@ Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod
 
 ### Temelel düzeyde style uygulama tavsiyelerim;
 
-![Alt text](image/img-err-1.png?raw=true "Title")
-![Alt text](image/img-err-2.png?raw=true "Title")
-![Alt text](image/img-err-3.png?raw=true "Title")
-![Alt text](image/img-err-4.png?raw=true "Title")
-![Alt text](image/img-err-5.png?raw=true "Title")
-![Alt text](image/img-err-6.png?raw=true "Title")
-![Alt text](image/img-err-7.png?raw=true "Title")
+Gördüğüm birkaç yanlış style uygulama biçimleri. Bu yazım biçimleri yukarda bahsı geçen kurallara ters düşmektedir.
+```
+.multi-image-text{
+  background-color: white;
+  &__title{
+  font-size: 44px;
+  line-height: 0.68;
+  letter-spacing: 1.76px;
+  text-align: center;
+  color: #1d1d1d;
+  position: relative;
+  margin-bottom: 33px;
+  
+  &.multi-image-text__title--border{
+    &::after{
+      left: 50%;
+      position: absolute;
+      content: '';
+      height: 1px;
+      width: 180px;
+      bottom: -12px;
+      background-color: #bfbfbf;
+      transform: translateX(-50%);
+    }
+  }
+}
+  &__description{
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 1.28px;
+  text-align: center;
+  color: #7a7a7a;
+  margin-bottom: 25px;
+  }
+}
+.multi-image-slider{
+  background-color: #f5f5f5;
+
+  .icon-sol{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    font-size: 40px;
+    color: #7a7a7a;
+    left: -26px;
+    background: transparent;
+}
+
+----------------------
+
+.col-sm-6:nth-child(2) {
+  padding-bottom: 40px;
+  position: absolute;
+  bottom: 2%;
+  left: 0;
+}
+
+.col-sm-7 {
+  padding: 30px 30px 30px 100px;
+}
+
+
+------------------------
+
+div {
+  font-size: 16px;
+  line-height: 1.63;
+  letter-spacing: 0.96px;
+  color: #7a7a7a;
+  text-align: center;
+}
+
+-----------------------
+
+.js-prev-slide, .js-next-slide {
+  cursor: pointer;
+  position: absolute;
+  top: 25%;
+  color: #bfbfbf;
+  transition: 0.6s ease;
+  font-size: 40px;
+  z-index: 999;
+}
+
+.js-next-slide {
+  right: -15px;
+}
+
+.js-prev-slide {
+  left: -15px;
+}
+
+----------------------
+
+a{
+  transition: 0.2s ease;
+  display: block;
+  border: 1px solid #bfbfbf;
+  height: 50px;
+  padding: 6px 12px;
+  position: relative;
+
+  i{
+    position: absolute;
+    left: 8px;
+    text-align: center;
+    width: 32px;
+    font-size: 20px;
+    line-height: 36px;
+  }
+
+  span{
+    display: block;
+    letter-spacing: 1.1px;
+    color: #1d1d1d;
+    font-size: 14px;
+    padding-left: 30px;
+    line-height: 19px;
+    text-transform: uppercase;
+  }
+}
 
 
 
 
+```
 
