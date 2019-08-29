@@ -122,7 +122,8 @@ Search Bloğu ;
 
 
 ### Modifier
- Block elemanına ek stiller kullanmak için oluşturulur. Arayüz elemanlarımızın farklı durumlardaki hali için yapısal olmayan değişikleri için kullanırız. Aktif-pasif , büyük-küçük element gibi örnekler verebiliriz.
+ Block elemanına ek stiller kullanmak için oluşturulur. Arayüz elemanlarımızın farklı durumlardaki hali için yapısal 
+ olmayan değişikleri için kullanırız. Aktif-pasif , büyük-küçük element gibi örnekler verebiliriz.
  
   ![Alt text](https://miro.medium.com/max/378/1*ynf3eybGhZXs-1F-l_3AdQ.png?raw=false "Title")
     .header bloğu içindeki .search bloğu
@@ -370,7 +371,8 @@ BEM gibi bir css metodolojisidir.
 
 
 
-Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod yazmak için nasıl bir metodoloji yolu izlenmeli hakkında bilgi paylaşımımız oldu. Bug ve revizeleri azaltmanın bir yoluda kodu doğru ve mantıklı sıralar halinde yazmaktır. BEM ve OOCSS gibi css stil metodolojileri kodu doğru uygulamayı, belli bir global standartları kullanmayı hedefler. Böylece kodun okunabilirliği, yazılabilirliği, bakım ve geliştirmeleri çok rahat bir şekilde yapılmasını sağlar. 
+Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod yazmak için nasıl bir metodoloji yolu izlenmeli
+hakkında bilgi paylaşımımız oldu. Bug ve revizeleri azaltmanın bir yoluda kodu doğru ve mantıklı sıralar halinde yazmaktır. BEM ve OOCSS gibi css stil metodolojileri kodu doğru uygulamayı, belli bir global standartları kullanmayı hedefler. Böylece kodun okunabilirliği, yazılabilirliği, bakım ve geliştirmeleri çok rahat bir şekilde yapılmasını sağlar. 
 
 
 
@@ -459,7 +461,8 @@ Gördüğüm birkaç yanlış style uygulama biçimleri. Bu yazım biçimleri yu
   left: -15px;
 }
 
-> js veya bootstrap class'larına kesinlikle style verilmemeli. Herhangi bir js veya bootstrap classlarının htmlden çıkarılması durumunda UI sıkıntılı bir hal alacaktır. Buda biz yazılımcılara yol, su, elektrik olarak geri dönecektir.
+> js veya bootstrap class'larına kesinlikle style verilmemeli. Herhangi bir js veya bootstrap classlarının htmlden
+çıkarılması durumunda UI sıkıntılı bir hal alacaktır. Buda biz yazılımcılara yol, su, elektrik olarak geri dönecektir.
 
 ------------------------
 
@@ -507,13 +510,13 @@ a{
 
 ## Kaynaklar
 
-> http://getbem.com/
-> http://oocss.org/
-> https://medium.com/hesapkurdu-development/bem-ve-css-metodolojileri-db9d7582b376
-> https://medium.com/@busramemis/css-methodology-bem-7dc8596b5c8c
+* http://getbem.com/
+* http://oocss.org/
+* https://medium.com/hesapkurdu-development/bem-ve-css-metodolojileri-db9d7582b376
+* https://medium.com/@busramemis/css-methodology-bem-7dc8596b5c8c
 
 ##### Ayrıca bakabilirsiniz;
-> https://github.com/omergulcicek/css-stil-rehberi
+* https://github.com/omergulcicek/css-stil-rehberi
 
 
 
