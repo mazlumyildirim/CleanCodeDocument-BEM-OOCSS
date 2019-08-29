@@ -503,7 +503,7 @@ a{
   }
 }
 
-> Mümkün olduğu kadar Class'ız hiçbir style'landırma yapılmamalı.
+> Mümkün olduğu kadar Class'sız hiçbir style'landırma yapılmamalı.
 
 
 ```
