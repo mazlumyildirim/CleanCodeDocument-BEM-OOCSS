@@ -77,7 +77,7 @@ Genel olarak örneklere Header bloğu ile devam edeceğiz.
 ```
 
 #### Element
-> Element'ler temelde block'lar içinde olan ` blok elemanlarıdır `. 
+> Element'ler temelde block'lar içinde olan ` blok elemanlarıdır `. Class isminden sonra iki alt tire (“__”) kullanılıp gerekli metinsel ek getirilerek kullanılır.
 
   ![Alt text](https://miro.medium.com/max/378/1*4htCS_T0z8RAIQzl68qlKQ.png?raw=false "Title")
     .header bloğu içindeki .search bloğu
@@ -122,7 +122,7 @@ Search Bloğu ;
 
 
 ### Modifier
- Block elemanına ek stiller kullanmak için oluşturulur.
+ Block elemanına ek stiller kullanmak için oluşturulur. Arayüz elemanlarımızın farklı durumlardaki hali için yapısal olmayan değişikleri için kullanırız. Aktif-pasif , büyük-küçük element gibi örnekler verebiliriz.
  
   ![Alt text](https://miro.medium.com/max/378/1*ynf3eybGhZXs-1F-l_3AdQ.png?raw=false "Title")
     .header bloğu içindeki .search bloğu
