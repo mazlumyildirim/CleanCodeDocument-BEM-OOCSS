@@ -286,7 +286,7 @@ BEM gibi bir css metadolojisidir.
 
 ##### OOCSS'nin referans aldığı noktalar;
 
-* Düzen stillerinin (width, height, padding, margin , position) ve tasarım stillerinin(border, color, font, background) birbirinden ayrılması demektir.
+1 ) Düzen stillerinin (width, height, padding, margin , position) ve tasarım stillerinin(border, color, font, background) birbirinden ayrılması demektir.
 
 Örn;
 ```
@@ -323,6 +323,39 @@ BEM gibi bir css metadolojisidir.
 <div class=”box-1 box-border”> Lorem ipsum </div>
 <div class=”box-2 box-border”> Lorem ipsum </div>
 
+
+```
+
+2 ) Child-selector min seviyede kullanmak;
+
+```
+<!-- HTML  -->
+<div class=”sidebar”>
+   <h2 class=”sidebar-title”>
+     . . . 
+  </h2>
+      . . .
+      . . .
+</div>
+
+
+/* Doğru kullanım */
+
+.sidebar{
+   . . .
+   
+   &-title{
+     . . .
+   }
+}
+
+/* Yanlış kullanım */
+.sidebar{
+   . . .
+}
+.sidebar h2{
+   . . .
+}
 
 ```
 
