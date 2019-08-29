@@ -30,7 +30,7 @@ Unutulmaması gerekir, temiz kod arayışında olmak iyi yazılımcı olmak içi
 
 ## BEM Nedir ?
 
-BEM (Block Element Modifier) bir css metadolojisidir. Yandex Tarafından geliştirilmiş, bir stil adlandırma kuralıdır.
+BEM (Block Element Modifier) bir css metodolojisidir. Yandex Tarafından geliştirilmiş, bir stil adlandırma kuralıdır.
 
 BEM ile doğru, stabil ve belli bir standart isimlendirmeler amaçlanmaktadır. Kodun okunulabilir olması için oldukça önemli bir yer almaktadır.
 
@@ -281,7 +281,7 @@ bonus olarak;
 
 ## OOCSS (Object Oriented CSS)
 
-BEM gibi bir css metadolojisidir.
+BEM gibi bir css metodolojisidir.
 > OOCSS'in odak noktası, sayfa öğelerinde tekrar edilen durumları nesne olarak ele almak ve gerektiğinde kullanmaktır.
 
 ##### OOCSS'nin referans aldığı noktalar;
