@@ -374,7 +374,7 @@ Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod
 
 
 
-### Temelel düzeyde style uygulama tavsiyelerim;
+### Temelel düzeyde style uygulama önerilerim;
 
 Gördüğüm birkaç yanlış style uygulama biçimleri. Bu yazım biçimleri yukarda bahsı geçen kurallara ters düşmektedir.
 ```
@@ -498,8 +498,9 @@ a{
   }
 }
 
-
-
-
 ```
+
+### Responsive uygulama Önerilerim;
+
+![Alt text](image/code-rev-1.jpg?raw=false "Title")
 
