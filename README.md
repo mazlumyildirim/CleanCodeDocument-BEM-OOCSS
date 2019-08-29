@@ -378,11 +378,11 @@ Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod
 
 ![Alt text](image/img-err-1.png?raw=false "Title")
 ![Alt text](image/img-err-2.png?raw=false "Title")
-![Alt text](image/img-err-3.png?raw=true "Title")
-![Alt text](image/img-err-4.png?raw=true "Title")
-![Alt text](image/img-err-5.png?raw=true "Title")
-![Alt text](image/img-err-6.png?raw=true "Title")
-![Alt text](image/img-err-7.png?raw=true "Title")
+![Alt text](image/img-err-3.png?raw=false "Title")
+![Alt text](image/img-err-4.png?raw=false "Title")
+![Alt text](image/img-err-5.png?raw=false "Title")
+![Alt text](image/img-err-6.png?raw=false "Title")
+![Alt text](image/img-err-7.png?raw=false "Title")
 
 
 
