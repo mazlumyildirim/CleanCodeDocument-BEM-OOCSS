@@ -500,7 +500,4 @@ a{
 
 ```
 
-### Responsive uygulama Önerilerim;
-
-![Alt text](image/code-rev-1.jpg?raw=false "Title")
 
