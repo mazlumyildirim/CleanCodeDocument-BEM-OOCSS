@@ -1,4 +1,4 @@
-# BEM (Block Element Modifier)
+# Temiz Kod ve CSS Metodolojileri
 
 ## Temiz Kod Anlayışı;
 
