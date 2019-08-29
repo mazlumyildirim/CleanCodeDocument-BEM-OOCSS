@@ -365,8 +365,18 @@ BEM gibi bir css metadolojisidir.
 * Kolay okunabilirliği sağlar. Bu sayede kodun geliştirmesi rahat olur.
 * OOCSS’te parçalar CSS’de kodlanıp ve HTML’de genişletiliyor.
 
+### Metodolojilerde sonuç olarak;
+
+
+
 
 Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod yazmak için nasıl bir metodoloji yolu izlenmeli hakkında bilgi paylaşımımız oldu. Bug ve revizeleri azaltmanın bir yoluda kodu doğru ve mantıklı sıralar halinde yazmaktır. BEM ve OOCSS gibi css stil metodolojileri kodu doğru uygulamayı, belli bir global standartları kullanmayı hedefler. Böylece kodun okunabilirliği, yazılabilirliği, bakım ve geliştirmeleri çok rahat bir şekilde yapılmasını sağlar. 
+
+
+
+### Temelel düzeyde style uygulama tavsiyelerim;
+
+
 
 
 
