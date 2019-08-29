@@ -359,5 +359,11 @@ BEM gibi bir css metadolojisidir.
 
 ```
 
+### OOCSS Kullanmak…
+* Kod tekrarını azaltıp css dosyamızın şişmesini engeller. Kod tekrarı olmadığı için sitenin performansını olumlu yönde etkiler.
+* Esnek, Korunabilir ve ölçeklenebilir olduğu için yeniden kullanılabilirliği sağlar.
+* Kolay okunabilirliği sağlar. Bu sayede kodun geliştirmesi rahat olur.
+* OOCSS’te parçalar CSS’de kodlanıp ve HTML’de genişletiliyor.
+
 
 
