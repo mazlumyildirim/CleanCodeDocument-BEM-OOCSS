@@ -376,13 +376,13 @@ Genele bakacak olursak, Temiz kod yazma, kötü kod nasıl oluşur, ve temiz kod
 
 ### Temelel düzeyde style uygulama tavsiyelerim;
 
-![Alt text](image/img-err-1?raw=true "Title")
-![Alt text](image/img-err-2?raw=true "Title")
-![Alt text](image/img-err-3?raw=true "Title")
-![Alt text](image/img-err-4?raw=true "Title")
-![Alt text](image/img-err-5?raw=true "Title")
-![Alt text](image/img-err-6?raw=true "Title")
-![Alt text](image/img-err-7?raw=true "Title")
+![Alt text](image/img-err-1.jpg?raw=true "Title")
+![Alt text](image/img-err-2.jpg?raw=true "Title")
+![Alt text](image/img-err-3.jpg?raw=true "Title")
+![Alt text](image/img-err-4.jpg?raw=true "Title")
+![Alt text](image/img-err-5.jpg?raw=true "Title")
+![Alt text](image/img-err-6.jpg?raw=true "Title")
+![Alt text](image/img-err-7.jpg?raw=true "Title")
 
 
 
