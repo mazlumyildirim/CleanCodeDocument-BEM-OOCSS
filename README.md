@@ -259,9 +259,9 @@ bonus olarak;
 .kisi--erkek__bacak--sol
 .kisi--erkek__bacak--sag
 .kisi--kadin
-.kisi--kadin__hand
-.kisi--kadin__hand--sol
-.kisi--kadin__hand--sag
+.kisi--kadin__el
+.kisi--kadin__el--sol
+.kisi--kadin__el--sag
 .kisi--kadin__bacak
 .kisi--kadin__bacak--sol
 .kisi--kadin__bacak--sag
